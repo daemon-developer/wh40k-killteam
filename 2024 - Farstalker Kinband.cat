@@ -451,7 +451,7 @@
                   <characteristics>
                     <characteristic name="ATK" typeId="6056-b741-7cf3-5b43">5</characteristic>
                     <characteristic name="HIT" typeId="8044-2517-4ef7-33de">2+</characteristic>
-                    <characteristic name="DMG" typeId="dd3e-ef09-5d1a-37b4">33</characteristic>
+                    <characteristic name="DMG" typeId="dd3e-ef09-5d1a-37b4">3/3</characteristic>
                     <characteristic name="WR" typeId="05b8-00a1-69af-14b6">Range 6&quot;, Heavy (Reposition only), Piercing 2, Torrent 2&quot;</characteristic>
                   </characteristics>
                 </profile>
